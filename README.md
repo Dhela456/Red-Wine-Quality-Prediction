@@ -57,3 +57,4 @@ weighted avg       0.82      0.85      0.83       365
 - Quality vs Alcohol: 'LinePlot: Quality vs Alcohol', 'ScatterPlot for quality vs alcohol.png'
 - Quality Bins: 'HistPlot: Quality Bins.png'
 - Features: 'PairPlot for the selected features.png'
+# Red-Wine-Quality-Prediction
