@@ -1,10 +1,5 @@
 streamlit
-numpy
-pandas
 matplotlib
-seaborn
-joblib
-plotly.express
-plotly.graph_objects
+plotly
+pandas
 scikit-learn
-python==3.13.5
