@@ -7,3 +7,4 @@ joblib
 plotly.express
 plotly.graph_objects
 scikit-learn
+python version = 3.13.5
